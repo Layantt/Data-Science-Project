@@ -1,19 +1,5 @@
 # Data-Science-Project
-Data Science | IT362 | 56594
-
-Dr.Khulood Alyahya
-
-
-
-
-
-
-
-
-
-
-
-
+Data Science IT362 | 56594 | Dr.Khulood Alyahya
 
 
 
